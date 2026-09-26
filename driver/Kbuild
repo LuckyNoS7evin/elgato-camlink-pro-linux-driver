@@ -1,0 +1,2 @@
+obj-m := camlinkpro.o
+camlinkpro-y := clp-core.o clp-fpga.o clp-mcu.o clp-dma.o clp-framer.o clp-video.o clp-debugfs.o
